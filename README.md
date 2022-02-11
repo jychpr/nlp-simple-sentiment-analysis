@@ -6,17 +6,17 @@ Dataset in csv format downloaded from https://www.kaggle.com/andrewmvd/trip-advi
 Sentiment Analysis Steps:
 1. Data input and selection
 2. Data preprocessing
-    a. Expanding contractions
-    b. Case folding - lowercasing
-    c. Number removal
-    d. Punctuation removal
-    e. Stopwords removal
-    f. Lemmatization
+    - Expanding contractions
+    - Case folding - lowercasing
+    - Number removal
+    - Punctuation removal
+    - Stopwords removal
+    - Lemmatization
 3. Classification
-    a. Decision Tree
-    b. Naive Bayes
-    c. Logistic Regression
-    d. Random Forest
+    - Decision Tree
+    - Naive Bayes
+    - Logistic Regression
+    - Random Forest
 
 Metrics: Accuracy, Precision, Recall, F1-score
 
