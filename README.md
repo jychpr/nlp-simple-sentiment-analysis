@@ -1,8 +1,6 @@
 # nlp-simple-sentiment-analysis
 Just a Natural Language Processing (NLP) simple Sentiment Analysis (SA) on tripadvisor hotel reviews csv dataset
 
-Dataset in csv format downloaded from https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
-
 Sentiment Analysis Steps:
 1. Data input and selection
 2. Data preprocessing
@@ -20,7 +18,8 @@ Sentiment Analysis Steps:
 
 Metrics: Accuracy, Precision, Recall, F1-score
 
+Dataset in csv format downloaded from https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
 
-Reference
+Dataset Reference
 - Alam, M. H., Ryu, W.-J., Lee, S., 2016. Joint multi-grain topic sentiment: modeling semantic aspects for online reviews. Information Sciences 339, 206–223.
 https://doi.org/10.5281/zenodo.1219899
