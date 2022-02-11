@@ -22,5 +22,5 @@ Metrics: Accuracy, Precision, Recall, F1-score
 
 
 Reference
-Alam, M. H., Ryu, W.-J., Lee, S., 2016. Joint multi-grain topic sentiment: modeling semantic aspects for online reviews. Information Sciences 339, 206–223.
+- Alam, M. H., Ryu, W.-J., Lee, S., 2016. Joint multi-grain topic sentiment: modeling semantic aspects for online reviews. Information Sciences 339, 206–223.
 https://doi.org/10.5281/zenodo.1219899
