@@ -1,5 +1,5 @@
 # nlp-simple-sentiment-analysis
-just a nlp simple sentiment analysis on tripadvisor hotel reviews csv dataset
+Just a nlp simple sentiment analysis on tripadvisor hotel reviews csv dataset
 
 Dataset in csv format downloaded from https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
 
