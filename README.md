@@ -18,6 +18,8 @@ Sentiment Analysis Steps:
 
 Metrics: Accuracy, Precision, Recall, F1-score
 
+Notebook made with Google Colab
+
 Dataset in csv format downloaded from https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
 
 Dataset Reference
