@@ -1,0 +1,12 @@
+jupyter
+jupyterlab
+numpy
+pandas
+seaborn
+nltk
+spacy
+contractions
+scikit-learn
+plotly
+matplotlib
+
